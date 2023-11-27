@@ -1,0 +1,12 @@
+.container {
+  border-bottom: solid 1px #fff;
+}
+
+.containerBrand {
+  display: flex;
+  align-items: center;
+}
+
+.imageLogo {
+  margin-right: 10px;
+}
